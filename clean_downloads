@@ -1,0 +1,34 @@
+#clean download folder for Mac
+
+cd  ~/Downloads
+rm *.exe
+rm *.crdownload
+
+mv *.jpg picture
+mv *.jpeg picture
+mv *.JPG picture
+mv *.png picture
+mv *.gif picture
+mv *.ico picture
+
+mv *.pdf book/
+mv *.PDF book/
+mv *.azw3 book/
+mv *.mobi book/
+mv *.epub book/
+
+mv *.docx doc/
+mv *.vsd doc/
+mv *.xlsx doc/
+mv *.xls doc/
+mv *.txt doc/
+mv *.doc doc/
+mv *.pptx doc/
+
+mv *.zip achieve/
+mv *.rar achieve/
+mv *.7z achieve/
+
+mv *.mp4 movie/
+mv *.mov movie/
+mv *.avi movie/
